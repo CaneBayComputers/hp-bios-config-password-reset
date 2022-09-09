@@ -1,6 +1,6 @@
-# HP BIOS Config and Password Reset
+# HP BIOS Config and HP BIOS Password Reset Tool Untility
 
-This is not a definitive "how-to" however I believe this is what you can use to reset the HP BIOS password.
+This is not a definitive "how-to" however I believe this tool is what you can use to reset the HP BIOS password.
 
 **Most of this is largely untested!**
 
@@ -14,9 +14,9 @@ If the BIOS is password protected you won't be able to change the boot order. Us
 
 If you can already boot into Windows then you are good to go!
 
-## Install BIOS Configurator
+## Install BIOS Configurator Utility Tool
 
-I've included a few exe files of the BCU (Boot Config Utility) that I have found around the internet. I believe the higher number files are newer but, again, this is untested and I'm not sure so I'm just including them as I find them.
+I've included a few exe files of the BCU (Boot Config Utility) tool that I have found around the internet. I believe the higher number files are newer but, again, this is untested and I'm not sure so I'm just including them as I find them.
 
 Run the exe file which will install the configurator into `C:\Program Files (x86)\hp` directory however if you have a USB you might be able to install onto that.
 
@@ -43,8 +43,8 @@ BiosConfigUtility64.exe /setconfig:config.txt
 
 ## Compatibility
 
-The pdf is copyright 2012 to 2021. I'm guessing this utility might work on BIOS chips during this time however this whole thing is untested by myself. I have actually zero clue how well any of this works. Feedback would be much appreciated!
+The pdf is copyright 2012 to 2021. I'm guessing this utility tool might work on BIOS chips during this time however this whole thing is untested by myself. I have actually zero clue how well any of this works. Feedback would be much appreciated!
 
 ## Disclaimer
 
-I do not claim ownership for any of the files in this repository as my own except this README. I supply these files for historical purposes. What you choose to do with them is by your own accord. I make no claims as to the outcome or functionality of this program. I have not modified the program or documentation in any way. USE AT YOUR OWN RISK. NO GUARANTEES OR WARRANTIES.
+I do not claim ownership for any of the files or tools in this repository as my own except this README. I supply these files for historical purposes. What you choose to do with them is by your own accord. I make no claims as to the outcome or functionality of this program. I have not modified the program or documentation in any way. USE AT YOUR OWN RISK. NO GUARANTEES OR WARRANTIES.
