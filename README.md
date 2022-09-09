@@ -1,4 +1,4 @@
-# HP BIOS Config and HP BIOS Password Reset Tool Untility
+# HP BIOS Password Reset and Config Tool
 
 This is not a definitive "how-to" however I believe this tool is what you can use to reset the HP BIOS password.
 
