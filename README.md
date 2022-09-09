@@ -16,6 +16,8 @@ If you can already boot into Windows then you are good to go!
 
 ## Install BIOS Configurator
 
+I've included a few exe files of the BCU (Boot Config Utility) that I have found around the internet. I believe the higher number files are newer but, again, this is untested and I'm not sure so I'm just including them as I find them.
+
 Run the exe file which will install the configurator into `C:\Program Files (x86)\hp` directory however if you have a USB you might be able to install onto that.
 
 ## Reset BIOS Password
